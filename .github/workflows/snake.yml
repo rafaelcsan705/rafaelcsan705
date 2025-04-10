@@ -26,3 +26,9 @@ jobs:
           author_email: github-actions@github.com
           message: "chore: generate snake"
           add: "dist/*.svg"
+
+      - name: Push to main
+        run: |
+          git fetch
+          git branch
+          git push origin HEAD:main
