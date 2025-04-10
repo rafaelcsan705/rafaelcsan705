@@ -17,7 +17,7 @@ I'm focused, curious, and driven by challenges that allow me to grow technically
 
 ---
 
-## 🚀 Currently
+## 🚀 What I do
 
 - Developing and maintaining multi-platform apps (iOS & Android)
 - Learning Kotlin and Android fundamentals
