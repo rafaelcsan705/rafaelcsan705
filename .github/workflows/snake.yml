@@ -2,7 +2,7 @@ name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todos os dias à meia-noite
+    - cron: "0 0 * * *" # corre todos os dias à meia-noite
   workflow_dispatch:
 
 jobs:
@@ -14,9 +14,8 @@ jobs:
           github_user_name: rafaelcsan705
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.svg?palette=github-dark
 
-      - name: Push to GitHub
+      - name: Commit Snake
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
