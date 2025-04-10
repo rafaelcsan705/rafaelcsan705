@@ -67,3 +67,7 @@ Mobile developer in banking apps focusing on visual redesign, login performance,
 ## 📬 Contact
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rafaelcsantos) or email me at **rafaelcsan705@gmail.com**.
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rafaelcsan705&theme=flat&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
