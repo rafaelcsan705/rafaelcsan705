@@ -59,7 +59,7 @@ Mobile developer in banking apps focusing on visual redesign, login performance,
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/rafaelcsan705/rafaelcsan705/blob/main/dist/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/rafaelcsan705/rafaelcsan705/blob/main/dist/github-snake-dark.svg)
 
 
 ## 📈 GitHub Stats
