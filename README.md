@@ -64,7 +64,7 @@ Mobile developer in banking apps focusing on visual redesign, login performance,
 
 ## 📈 GitHub Stats
 
-![rafaelcsan705's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcsan705&show_icons=true&theme=github_dark)
+![rafaelcsan705's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcsan705&show_icons=true&theme=transparent)
 
 ---
 
