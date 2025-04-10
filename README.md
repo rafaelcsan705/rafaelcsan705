@@ -64,6 +64,11 @@ Mobile developer in banking apps focusing on visual redesign, login performance,
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/rafaelcsan705/rafaelcsan705/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 📬 Contact
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rafaelcsantos) or email me at **rafaelcsan705@gmail.com**.
