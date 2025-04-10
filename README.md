@@ -66,4 +66,4 @@ Mobile developer in banking apps focusing on visual redesign, login performance,
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rafaelcsantos) or email me at **rcsantos.1992@gmail.com**.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rafaelcsantos) or email me at **rafaelcsan705@gmail.com**.
