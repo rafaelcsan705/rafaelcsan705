@@ -24,8 +24,6 @@ I'm focused, curious, and driven by challenges that allow me to grow technically
 - Building clean, testable and scalable iOS architecture
 - Looking to contribute more to open-source and write about iOS development
 
----
-
 ## 🔧 Tech Stack
 
 - **Languages:** Swift, Kotlin (learning), HTML, CSS, JavaScript
@@ -34,8 +32,6 @@ I'm focused, curious, and driven by challenges that allow me to grow technically
 - **Tools:** Xcode, Git, Jira, Dynatrace, Crashlytics
 - **Testing:** XCTest, Nimble, Quick
 - **Other:** WebView integration, OTP login flows, Dependency Injection
-
----
 
 ## 🧪 Experience Highlights
 
