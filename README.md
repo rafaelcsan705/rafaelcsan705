@@ -1,6 +1,6 @@
 # Rafael Santos
 
-### Senior iOS Developer | Passionate about building clean, scalable and user-friendly apps
+### iOS Architect | Passionate about building clean, scalable and user-friendly apps
 
 [![LinkedIn](https://img.shields.io/badge/-rafaelcsantos-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelcsantos/)](https://www.linkedin.com/in/rafaelcsantos/)
 [![GitHub](https://img.shields.io/badge/GitHub-@rafaelcsan705-181717?style=flat-square&logo=github)](https://github.com/rafaelcsan705)
@@ -11,7 +11,7 @@
 
 Hi, I'm Rafael Santos, a Senior iOS Developer based in Portugal.  
 I started programming in 2018 and have since worked mostly on mobile applications for the banking and insurance sectors.  
-I've always been passionate about building applications, and iOS development is where I truly thrive.
+I've always been passionate about building applications, and iOS development is where I truly thrive.i
 
 I'm focused, curious, and driven by challenges that allow me to grow technically and create meaningful user experiences.
 
